@@ -3,9 +3,13 @@
   <head>
     ### Hey Folks <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
     - 📫 How to reach me:
-    <a href="https://discord.gg/FfHjHH9VYc">
-  <img align="left" alt="Shreya's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-</a>
+   **Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
   <a href="https://www.linkedin.com/in/aaditya-singh-9287181a2/">
   <img align="left" alt="aaditya-linkedin" width="22px" src="https://www.linkedin.com/in/aaditya-singh-9287181a2/">
 </a>
