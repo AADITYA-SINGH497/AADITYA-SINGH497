@@ -6,7 +6,7 @@
   <body>
     <figure>
 <img class="web developer.jpg"
-    src="https://cdn.dribbble.com/users/1732368/screenshots/13868440/media/e5d35a4718deabcdc17dea202ed59373.gif" width="450" height="450">
+    src="https://media1.giphy.com/media/iHDsVcsGtNULvwBzRi/giphy.gif" width="450" height="450">
   </figure>
       <p>
         Hi, I'm [Aaditya Singh] web developer and some stuffs of coding 🚀 from India.I am new to this field new dosen't me knows nothing new can change whole rules of world being of this era,I came up with enthusiastic passion to know more about it.Beside's programming, I enjoy playing sports,travelling and studing new stuffs which lead me to research in the real life problems.Also keep keen interest on what is going around the surrounding.
