@@ -20,13 +20,19 @@
     <br>
   </i>
   <h3>some of few my details which may be further improvised ::::::> </h3>
+  <b>
+    <i>
+  Created by- 
+  Aaditya Singh
     <br>
-    <link href="https://www.instagram.com/aaditya4427/"> Instagram account</link>
+    <a href="https://www.instagram.com/aaditya4427/"> Instagram account</a>
     </br>
     <br>
-    <link href="https://www.linkedin.com/in/aaditya-singh-9287181a2/edit/certification/new/"> linkedin account</link>
+    <a href="https://www.linkedin.com/in/aaditya-singh-9287181a2/edit/certification/new/"> linkedin account</a>
     </br>
     </br>
+    </i>
+    <b>
       </p>
   </body>
 </html>
