@@ -21,12 +21,15 @@
    **Talking about Personal Stuffs:**
        <h3> Details :::>>></h3>
 - 👨🏽‍💻 I’m currently seeking my learning into projects:;
-- 🌱 I'm pursuing my undergraduation from BIT Mesra; 
+       <br>
+- 🌱 I'm pursuing my undergraduation from BIT Mesra;
+       </br>
 - 💬 Ask me about anything, I am happy to help;
+<br>
 - 📫 How to reach me:
 <br><a href="https://www.instagram.com/aaditya4427/">@aaditya-instagram</a></br>
 <br><a href="https://www.linkedin.com/in/aaditya-singh-9287181a2/edit/certification/new/">@aaditya-linkedin</a></br>
-
+</br>
   </p>
  </body>
 </html>
