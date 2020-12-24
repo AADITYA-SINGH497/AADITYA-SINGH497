@@ -4,7 +4,10 @@
    welcome to  see innovative projects
   </head>
   <body>
-    <a href="https://mir-s3-cdn-cf.behance.net/project_modules/max_632/4f2516107704545.5fad05a8a656d.jpg">
+    <figure>
+<img class="chickens.jpg"
+    src="https://mir-s3-cdn-cf.behance.net/project_modules/max_632/4f2516107704545.5fad05a8a656d.jpg" width="450" height="450">
+  </figure>
       <p>
       <h1> what are you looking for? </h1>
       <br> Here you are seeker of development projects on web which is -</br> 
