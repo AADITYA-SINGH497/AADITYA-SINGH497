@@ -1,6 +1,7 @@
 # Web-Developer
 <html>
   <head>
+    ### Hey Folks <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
     <i>welcome to  see innovative projects</i>
   </head>
   <body>
@@ -27,8 +28,13 @@
 - 💬 Ask me about anything, I am happy to help;
 <br>
 - 📫 How to reach me:
+  <a href="https://www.linkedin.com/in/shreya-singh-83b9561a1">
+  <img align="left" alt="aaditya-linkedin" width="22px" src="https://www.linkedin.com/in/aaditya-singh-9287181a2/edit/certification/new/" />
+</a>
+<a href="https://www.instagram.com/nottonlyyours/">
+  <img align="left" alt="aaditya-instagram" width="22px" src="https://www.instagram.com/aaditya4427/" />
+</a>
 <br><a href="https://www.instagram.com/aaditya4427/">@aaditya-instagram</a></br>
-<a href="https://www.linkedin.com/in/aaditya-singh-9287181a2/edit/certification/new/">@aaditya-linkedin</a>
 </br>
   </p>
  </body>
