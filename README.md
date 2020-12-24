@@ -5,10 +5,11 @@
   </head>
   <body>
     <figure>
-<img class="chickens.jpg"
+<img class="web developer.jpg"
     src="https://mir-s3-cdn-cf.behance.net/project_modules/max_632/4f2516107704545.5fad05a8a656d.jpg" width="450" height="450">
   </figure>
       <p>
+        Hi, I'm [Aaditya Singh] web developer and some stuffs of coding 🚀 from India.I am new to this field new dosen't me knows nothing new can change whole rules of world being of this era,I came up with enthusiastic passion to know more about it.Beside's programming, I enjoy playing sports,travelling and studing new stuffs which lead me to research in the real life problems.Also keep keen interest on what is going around the surrounding.
       <h1> what are you looking for? </h1>
     <i>
     <br> <b>Here you are seeker of development projects on web which is -</b></br> 
@@ -17,23 +18,14 @@
  <h2> what projects does mean for proffesionals?</h2>
      <i>
      <b> Among Web professionals, "Web development" usually refers to the main non-design aspects of building Web sites: writing markup and coding.Web development may use content management systems (CMS) to make content changes easier and available with basic technical skills.</b>
-    <br>
-  </i>
-  <h3> Details ::::::> </h3>
-  <b>
-    <i>
-      <br>
-      <p>Created by->
-        <br>Aaditya Singh</br>
-    </p>
-      </br>
-    <p>
- <a href="https://www.instagram.com/aaditya4427/"> Instagram account</a>
- <br><a href="https://www.linkedin.com/in/aaditya-singh-9287181a2/edit/certification/new/"> linkedin account</a></br>
-    </p>
-    </br>
-    </i>
-    <b>
-      </p>
-  </body>
+   **Talking about Personal Stuffs:**
+
+- 👨🏽‍💻 I’m currently seeking my learning into projects:;
+- 🌱 I'm pursuing my undergraduation from BIT Mesra; 
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me:
+<a href="https://www.instagram.com/aaditya4427/">@aaditya-instagram</a>
+<br><a href="https://www.linkedin.com/in/aaditya-singh-9287181a2/edit/certification/new/">@aaditya-linkedin</a></br>
+  </p>
+ </body>
 </html>
