@@ -24,12 +24,8 @@
     <i>
   Created by- 
   Aaditya Singh
-    <br>
-    <a href="https://www.instagram.com/aaditya4427/"> Instagram account</a>
-    </br>
-    <br>
-    <a href="https://www.linkedin.com/in/aaditya-singh-9287181a2/edit/certification/new/"> linkedin account</a>
-    </br>
+ <a href="https://www.instagram.com/aaditya4427/"> Instagram account</a>
+ <a href="https://www.linkedin.com/in/aaditya-singh-9287181a2/edit/certification/new/"> linkedin account</a>
     </br>
     </i>
     <b>
