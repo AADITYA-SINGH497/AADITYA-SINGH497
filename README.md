@@ -24,7 +24,8 @@
     <i>
       <br>
       <p>Created by->
-        Aaditya Singh</p>
+        <br>Aaditya Singh</br>
+    </p>
       </br>
     <p>
  <a href="https://www.instagram.com/aaditya4427/"> Instagram account</a>
