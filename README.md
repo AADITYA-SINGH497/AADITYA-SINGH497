@@ -28,7 +28,7 @@
 <br>
 - 📫 How to reach me:
 <br><a href="https://www.instagram.com/aaditya4427/">@aaditya-instagram</a></br>
-<br><a href="https://www.linkedin.com/in/aaditya-singh-9287181a2/edit/certification/new/">@aaditya-linkedin</a></br>
+<a href="https://www.linkedin.com/in/aaditya-singh-9287181a2/edit/certification/new/">@aaditya-linkedin</a>
 </br>
   </p>
  </body>
