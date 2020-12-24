@@ -1,8 +1,7 @@
 # Web-Developer
-<!doctype html>
 <html>
   <head>
-    <title> welcome to  see innovative projects</title>
+   welcome to  see innovative projects
   </head>
   <body>
     <a href="https://mir-s3-cdn-cf.behance.net/project_modules/max_632/4f2516107704545.5fad05a8a656d.jpg">
