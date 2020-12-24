@@ -19,7 +19,7 @@
      <b> Among Web professionals, "Web development" usually refers to the main non-design aspects of building Web sites: writing markup and coding.Web development may use content management systems (CMS) to make content changes easier and available with basic technical skills.</b>
     <br>
   </i>
-  <h3>some of few my details which may be further improvised ::::::> </h3>
+  <h3> Details ::::::> </h3>
   <b>
     <i>
       <br>
