@@ -2,13 +2,15 @@
 <html>
   <head>
     ### Hey Folks <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+    <br>
     - 📫 How to reach me:
   <a href="https://www.linkedin.com/in/aaditya-singh-9287181a2/">
   <img align="left" alt="aaditya-linkedin" width="22px" src="https://www.linkedin.com/in/aaditya-singh-9287181a2/">
 </a>
 <a href="https://www.instagram.com/aaditya4427/">
   <img align="left" alt="aaditya-instagram" width="22px" src="https://www.instagram.com/aaditya4427/">
-    <i>welcome to  see innovative projects</i>
+  </br>
+  <i>welcome to  see innovative projects</i>
   </head>
   <body>
     <figure>
