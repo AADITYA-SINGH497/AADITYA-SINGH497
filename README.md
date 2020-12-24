@@ -19,14 +19,14 @@
      <i>
      <b> Among Web professionals, "Web development" usually refers to the main non-design aspects of building Web sites: writing markup and coding.Web development may use content management systems (CMS) to make content changes easier and available with basic technical skills.</b>
    **Talking about Personal Stuffs:**
-<p>
+       <h3> Details :::>>></h3>
 - 👨🏽‍💻 I’m currently seeking my learning into projects:;
 - 🌱 I'm pursuing my undergraduation from BIT Mesra; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me:
 <br><a href="https://www.instagram.com/aaditya4427/">@aaditya-instagram</a></br>
 <br><a href="https://www.linkedin.com/in/aaditya-singh-9287181a2/edit/certification/new/">@aaditya-linkedin</a></br>
-  </p>
+
   </p>
  </body>
 </html>
