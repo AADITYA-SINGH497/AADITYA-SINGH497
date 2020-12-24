@@ -32,10 +32,7 @@
   <img align="left" alt="aaditya-linkedin" width="22px" src="https://www.linkedin.com/in/aaditya-singh-9287181a2/edit/certification/new/" />
 </a>
 <a href="https://www.instagram.com/nottonlyyours/">
-  <img align="left" alt="aaditya-instagram" width="22px" src="https://www.instagram.com/aaditya4427/" />
-</a>
-<br><a href="https://www.instagram.com/aaditya4427/">@aaditya-instagram</a></br>
-</br>
+  <img align="left" alt="aaditya-instagram" width="22px" src="https://www.instagram.com/aaditya4427/">
   </p>
  </body>
 </html>
