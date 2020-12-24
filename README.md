@@ -28,10 +28,10 @@
 - 💬 Ask me about anything, I am happy to help;
 <br>
 - 📫 How to reach me:
-  <a href="https://www.linkedin.com/in/shreya-singh-83b9561a1">
-  <img align="left" alt="aaditya-linkedin" width="22px" src="https://www.linkedin.com/in/aaditya-singh-9287181a2/edit/certification/new/" />
+  <a href="https://www.linkedin.com/in/aaditya-singh-9287181a2/">
+  <img align="left" alt="aaditya-linkedin" width="22px" src="https://www.linkedin.com/in/aaditya-singh-9287181a2/">
 </a>
-<a href="https://www.instagram.com/nottonlyyours/">
+<a href="https://www.instagram.com/aaditya4427/">
   <img align="left" alt="aaditya-instagram" width="22px" src="https://www.instagram.com/aaditya4427/">
   </p>
  </body>
