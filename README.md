@@ -23,8 +23,8 @@
   <b>
     <i>
       <br>
-      <p>Created by-</p> 
-      <p>Aaditya Singh</p>
+      <p>Created by->
+        Aaditya Singh</p>
       </br>
     <p>
  <a href="https://www.instagram.com/aaditya4427/"> Instagram account</a>
