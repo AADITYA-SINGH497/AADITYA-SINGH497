@@ -24,7 +24,7 @@
 - 🌱 I'm pursuing my undergraduation from BIT Mesra; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me:
-<a href="https://www.instagram.com/aaditya4427/">@aaditya-instagram</a>
+<p><a href="https://www.instagram.com/aaditya4427/">@aaditya-instagram</a></p>
 <br><a href="https://www.linkedin.com/in/aaditya-singh-9287181a2/edit/certification/new/">@aaditya-linkedin</a></br>
   </p>
  </body>
