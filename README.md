@@ -23,11 +23,15 @@
   <b>
     <i>
       <br>
-  Created by- 
-  Aaditya Singh
+      <p>Created by-</p> 
+      <p>Aaditya Singh</p>
       </br>
+    <p>
  <a href="https://www.instagram.com/aaditya4427/"> Instagram account</a>
+    </p>
+    <p>
  <a href="https://www.linkedin.com/in/aaditya-singh-9287181a2/edit/certification/new/"> linkedin account</a>
+    </p>
     </br>
     </i>
     <b>
