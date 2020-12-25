@@ -29,7 +29,9 @@
 - 🌱 I'm pursuing my undergraduation from BIT Mesra;
        </br>
 - 💬 Ask me about anything, I am happy to help;
+<br>
 - 📫 How to reach me:
+</br>
 <br>
 <a href="https://discord.com/channels/@me">
   <img align="left" alt="aaditya's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
