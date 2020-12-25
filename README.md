@@ -13,7 +13,7 @@
   </head>
   <body>
     <figure>
-<img class="web developer.jpg"
+<img class="6FNX.jpg"
     src="C:\Users\lenovo\Downloads\6FNX" width="900" height="450">
   </figure>
       <p>
