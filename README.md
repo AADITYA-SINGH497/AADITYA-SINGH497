@@ -30,6 +30,7 @@
        </br>
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me:
+<br>
 <a href="https://discord.com/channels/@me">
   <img align="left" alt="aaditya's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
@@ -39,6 +40,7 @@
 <a href="https://www.instagram.com/aaditya4427/">
   <img align="left" alt="aaditya-instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">
 </a>
+</br>
   </p>                  
   </body>
 </html>
