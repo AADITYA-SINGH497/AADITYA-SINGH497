@@ -24,8 +24,8 @@
        <b> Web development is the work involved in developing a Web site for the Internet (World Wide Web) or an intranet (a private network).Web development can range from developing a simple single static page of plain text to complex Web-based Internet applications (Web apps).</b>
     </i>
   <figure>
-<img class="professionals.jpg"
-    src="https://i.gifer.com/6FNX.gif" width="900" height="450">
+<img class="web developer.jpg"
+    src="https://i.gifer.com/6FNX.gif" width="350" height="300">
   </figure>
 <h2> what projects does mean for proffesionals?</h2>
      <i>
@@ -39,8 +39,8 @@
 - 💬 Ask me about anything, I am happy to help;
 <br>
   <figure>
-<img class="logo.jpg"
-    src="https://i.gifer.com/6HLC.gif" width="900" height="450">
+<img class="web developer.jpg"
+    src="https://i.gifer.com/6HLC.gif" width="350" height="300">
   </figure>                                             
  </body>
 </html>
