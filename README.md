@@ -15,7 +15,7 @@
   <body>
     <figure>
 <img class="6FNX.jpg"
-    src="C:\Users\lenovo\Downloads\6FNX" width="900" height="450">
+    src="https://i.gifer.com/6FNX.gif" width="900" height="450">
   </figure>
     </br>
       <p>
