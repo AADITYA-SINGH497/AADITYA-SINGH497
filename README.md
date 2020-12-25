@@ -9,6 +9,7 @@
 <a href="https://www.instagram.com/aaditya4427/">
   <img align="left" alt="aaditya-instagram" width="22px" src="https://www.instagram.com/aaditya4427/">
     </a>
+    <br>
   <i>welcome to  see innovative projects</i>
   </head>
   <body>
@@ -16,6 +17,7 @@
 <img class="6FNX.jpg"
     src="C:\Users\lenovo\Downloads\6FNX" width="900" height="450">
   </figure>
+    </br>
       <p>
         Hi, I'm [Aaditya Singh] web developer and some stuffs of coding 🚀 from India.I am new to this field new dosen't me knows nothing new can change whole rules of world being of this era,I came up with enthusiastic passion to know more about it.Beside's programming, I enjoy playing sports,travelling and studing new stuffs which lead me to research in the real life problems.Also keep keen interest on what is going around the surrounding.
       <h1> what are you looking for? </h1>
