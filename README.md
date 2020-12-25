@@ -2,19 +2,9 @@
 <html>
   <head>
     ### Hey Folks <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-    - 📫 How to reach me:
-    </a>
-<a href="https://discord.com/channels/@me">
-  <img align="left" alt="aaditya's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-</a>
-    <a href="https://www.linkedin.com/in/aaditya-singh-9287181a2/">
-  <img align="left" alt="aaditya-linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
-</a>
-<a href="https://www.instagram.com/aaditya4427/">
-  <img align="left" alt="aaditya-instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">
-    </a>
     <br>
   <i>welcome to  see innovative projects</i>
+    </br>
   </head>
   <body>
     <figure>
@@ -39,6 +29,16 @@
 - 🌱 I'm pursuing my undergraduation from BIT Mesra;
        </br>
 - 💬 Ask me about anything, I am happy to help;
-<br>
-  </p>                  </body>
+- 📫 How to reach me:
+<a href="https://discord.com/channels/@me">
+  <img align="left" alt="aaditya's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+</a>
+    <a href="https://www.linkedin.com/in/aaditya-singh-9287181a2/">
+  <img align="left" alt="aaditya-linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
+</a>
+<a href="https://www.instagram.com/aaditya4427/">
+  <img align="left" alt="aaditya-instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">
+</a>
+  </p>                  
+  </body>
 </html>
