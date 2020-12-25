@@ -40,7 +40,7 @@
 <br>
   <figure>
 <img class="web developer.jpg"
-    src="https://i.gifer.com/6HLC.gif" width="350" height="300">
+    src="https://i.gifer.com/6HLC.gif" width="150" height="200" >
   </figure>                                             
  </body>
 </html>
