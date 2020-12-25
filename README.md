@@ -39,8 +39,7 @@
 - 💬 Ask me about anything, I am happy to help;
 <br>
   <figure>
-<img class="web developer.jpg"
-    src="https://i.gifer.com/6HLC.gif" width="75" height="75" >
+<img class="web developer.jpg" src="https://i.gifer.com/6HLC.gif" width="75" height="75" >
   </figure>                                             
  </body>
 </html>
