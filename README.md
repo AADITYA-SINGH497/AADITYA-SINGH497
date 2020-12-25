@@ -15,7 +15,7 @@
   <body>
     <figure>
 <img class="6FNX.jpg"
-    src="https://i.gifer.com/6FNX.gif" width="900" height="450">
+    src="https://mir-s3-cdn-cf.behance.net/project_modules/max_632/111d4d108871257.5fc756d5d6155.jpg" width="900" height="450">
   </figure>
     </br>
       <p>
