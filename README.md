@@ -14,7 +14,7 @@
   <body>
     <figure>
 <img class="web developer.jpg"
-    src="https://i.gifer.com/6FNX.gif" width="900" height="450">
+    src="C:\Users\lenovo\Downloads\6FNX" width="900" height="450">
   </figure>
       <p>
         Hi, I'm [Aaditya Singh] web developer and some stuffs of coding 🚀 from India.I am new to this field new dosen't me knows nothing new can change whole rules of world being of this era,I came up with enthusiastic passion to know more about it.Beside's programming, I enjoy playing sports,travelling and studing new stuffs which lead me to research in the real life problems.Also keep keen interest on what is going around the surrounding.
