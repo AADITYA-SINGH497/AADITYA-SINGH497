@@ -23,7 +23,8 @@
     <br> <b>Here you are seeker of development projects on web which is -</b></br> 
        <b> Web development is the work involved in developing a Web site for the Internet (World Wide Web) or an intranet (a private network).Web development can range from developing a simple single static page of plain text to complex Web-based Internet applications (Web apps).</b>
     </i>
-  <iframe src="https://gifer.com/embed/6FNX" width=480 height=567.488 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
+  <iframe src="https://gifer.com/embed/6FNX" width=480 height=567.488 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">
+  </iframe>
 <h2> what projects does mean for proffesionals?</h2>
      <i>
      <b> Among Web professionals, "Web development" usually refers to the main non-design aspects of building Web sites: writing markup and coding.Web development may use content management systems (CMS) to make content changes easier and available with basic technical skills.</b>
@@ -35,5 +36,7 @@
        </br>
 - 💬 Ask me about anything, I am happy to help;
 <br>
-  <iframe src="https://gifer.com/embed/6HLC" width=480 height=360.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>                  </body>
+  <iframe src="https://gifer.com/embed/6HLC" width=480 height=360.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER<
+  </iframe>
+  </p>                  </body>
 </html>
