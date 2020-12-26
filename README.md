@@ -10,7 +10,7 @@
     <figure>
 <img class="full stack developer.jpg"
      img align="right"
-    src="https://media1.tenor.com/images/573d52d8816c4243e9ab656b67f9e994/tenor.gif?itemid=18629164" width="450" height="450">
+    src="https://media1.tenor.com/images/573d52d8816c4243e9ab656b67f9e994/tenor.gif?itemid=18629164" width="550" height="450">
   </figure>
     </br>
       <p>
