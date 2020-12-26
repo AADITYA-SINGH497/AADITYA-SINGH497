@@ -1,7 +1,7 @@
 # Web-Developer
+## Hey Folks <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <html>
   <head>
-    ### Hey Folks <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
     <br>
   <i>welcome to  see innovative projects</i>
     </br>
@@ -9,7 +9,8 @@
   <body>
     <figure>
 <img class="full stack developer.jpg"
-    src="https://media1.tenor.com/images/573d52d8816c4243e9ab656b67f9e994/tenor.gif?itemid=18629164" width="900" height="450">
+     img align="right"
+    src="https://media1.tenor.com/images/573d52d8816c4243e9ab656b67f9e994/tenor.gif?itemid=18629164" width="450" height="450">
   </figure>
     </br>
       <p>
