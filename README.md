@@ -22,12 +22,12 @@
     </i>
 <h2> what projects does mean for proffesionals?</h2>
      <i>
-     <b> Among Web professionals, "Web development" usually refers to the main non-design aspects of building Web sites: writing markup and coding.Web development may use content management systems (CMS) to make content changes easier and available with basic technical skills.</b>
+     <b> Among Web professionals, "Web development" usually refers to the main non-design aspects of building Web sites:  markup and coding.Web development may use content management systems (CMS) to make content changes easier and available with basic technical skills.</b>
    <br>**Talking about Personal Stuffs:**</br>
        <h3> Details :::>>></h3>
 - 👨🏽‍💻 I’m currently seeking my learning into projects:;
        <br>
-- 🌱 I'm pursuing my undergraduation from BIT Mesra;
+- 🌱 I'm pursuing my undergraduation from BIT;
        </br>
 - 💬 Ask me about anything, I am happy to help;
 <br>
