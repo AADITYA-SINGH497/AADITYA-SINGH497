@@ -14,7 +14,7 @@
   </figure>
     </br>
       <p>
-        Hi, I'm [Aaditya Singh] web developer and some stuffs of coding 🚀 from India.I am new to this field new dosen't me knows nothing new can change whole rules of world being of this era,I came up with enthusiastic passion to know more about it.Beside's programming, I enjoy playing sports,travelling and studing new stuffs which lead me to research in the real life problems.Also keep keen interest on what is going around the surrounding.
+        Hi, I'm [Aaditya Singh] web developer and some stuffs of coding 🚀 from India.I am new to this field new dosen't means knows nothing new can change whole rules of world being of this era,I came up with enthusiastic passion to know more about it.Beside's programming, I enjoy playing sports,travelling and studing new stuffs which lead me to research in the real life problems.Also keep keen interest on what is going around the surrounding.
       <h1> what are you looking for? </h1>
     <i>
     <br> <b>Here you are seeker of development projects on web which is -</b></br> 
