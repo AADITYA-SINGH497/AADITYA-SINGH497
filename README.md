@@ -1,6 +1,6 @@
 # Web-Developer
 ## Hey Folks
-<img src="https://hackernoon.com/drafts/xl192gpf.png" width="200">
+<img src="https://hackernoon.com/drafts/xl192gpf.png" width="900">
 <html>
   <head>
     <br>
