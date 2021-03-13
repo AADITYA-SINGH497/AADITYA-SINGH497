@@ -12,9 +12,8 @@
     </br>
       <p>
         Hi, I'm [Aaditya Singh] web developer and some stuffs of coding 🚀 from India.Beside's programming, I enjoy playing sports,travelling and studing new stuffs which lead me to research in the real life problems.Also keep keen interest on what is going around the surrounding.In present time i am seeking some good to stuff's to enhance my technological skills. Hope by contributing in open-source will enhance my practical knowledge of working enviorment and exposure to developer side.
-      <h1> what are you looking for? </h1>
+      <h1> what i am looking here? </h1>
     <i>
-    <br> <b>what i am looking here?</b></br> 
        <b> I am looking for cool streak features which can add up value to my knowledge of projects or features on which whole world is currently working for. taking these kind of valuable knowledge i could contribute in  not to just split features or working on some of the features rather than building, i would make my efforts in such 
   a manner to make it integratable and optimizable for evryone could use it.</b>
     </i>
