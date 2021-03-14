@@ -55,7 +55,7 @@
  <code><img height="20" src="https://img.flaticon.com/icons/png/512/919/919825.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF"</code>
     <code><img height="20" src="https://c0.klipartz.com/pngpicture/962/92/gratis-png-interfaz-de-linea-de-comandos-de-mysql-backup-linux-de-la-base-de-datos-simbolo-de-la-base-de-datos-thumbnail.png"</code>
       <code><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"</code>
-        <code><img height="20" src="https://i0.wp.com/tech.msu.edu/wp-content/uploads/2018/11/Icon-Matlab_0.png?fit=230%2C230&ssl=1"</code>\
+        <code><img height="20" src="https://i0.wp.com/tech.msu.edu/wp-content/uploads/2018/11/Icon-Matlab_0.png?fit=230%2C230&ssl=1"></code>
           <code><img height="20" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"></code>
           </br>     
  </body>
