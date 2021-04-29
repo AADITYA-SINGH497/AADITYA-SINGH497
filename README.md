@@ -1,6 +1,6 @@
 # Web-Developer
 ## Hey Folks
-<img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" width="900">
+<img src="https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://www.chawtechsolutions.com/wp-content/uploads/2019/03/senior-front-end-developer-openings-1.gif" width="900">
 <html>
   <head>
     <br>
