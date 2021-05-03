@@ -33,30 +33,30 @@
 </br>
 <br>
 <a href="https://discord.com/channels/@me">
-  <img align="left" alt="aaditya's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+  <img align="left" alt="aaditya's Discord" width="44px" height="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
     <a href="https://www.linkedin.com/in/aaditya-singh-9287181a2/">
-  <img align="left" alt="aaditya-linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
+  <img align="left" alt="aaditya-linkedin" width="44px"  height="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
 </a>
 <a href="https://www.instagram.com/aaditya4427/">
-  <img align="left" alt="aaditya-instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">
+  <img align="left" alt="aaditya-instagram" width="44px" height="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">
 </a>
 <a href="https://app.slack.com/client/T01BRE73QRE/D01QNTZCWLT/user_profile/U01RCGWG1K2">
-  <img align="left" alt="aaditya-instagram" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFprRJ230odCgHV6wB3fEUzwVzZnO92PyTNw&usqp=CAU">
+  <img align="left" alt="aaditya-instagram" width="44px" height="44px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFprRJ230odCgHV6wB3fEUzwVzZnO92PyTNw&usqp=CAU">
 </a>
 </br>
  </p>
  <br>
   **LANGUAGES AND TOOLS** 
-  <code><img height="20" src="https://png.pngtree.com/png-clipart/20190630/original/pngtree-json-file-document-icon-png-image_4166911.jpg"></code>
-<code><img height="20" src="https://png.pngtree.com/png-clipart/20190705/original/pngtree-html-file-document-icon-png-image_4187757.jpg"></code>
-<code><img height="20" src="https://png.pngtree.com/png-clipart/20190705/original/pngtree-css-file-document-icon-png-image_4187768.jpg"></code>
-<code><img height="20" src="https://png.pngtree.com/png-clipart/20190705/original/pngtree-xml-file-document-icon-png-image_4187769.jpg"</code>
- <code><img height="20" src="https://img.flaticon.com/icons/png/512/919/919825.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF"</code>
-    <code><img height="20" src="https://c0.klipartz.com/pngpicture/962/92/gratis-png-interfaz-de-linea-de-comandos-de-mysql-backup-linux-de-la-base-de-datos-simbolo-de-la-base-de-datos-thumbnail.png"</code>
-      <code><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"</code>
-        <code><img height="20" src="https://i0.wp.com/tech.msu.edu/wp-content/uploads/2018/11/Icon-Matlab_0.png?fit=230%2C230&ssl=1"></code>
-          <code><img height="20" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"></code>
+  <code><img height="40" src="https://png.pngtree.com/png-clipart/20190630/original/pngtree-json-file-document-icon-png-image_4166911.jpg"></code>
+<code><img height="40" src="https://png.pngtree.com/png-clipart/20190705/original/pngtree-html-file-document-icon-png-image_4187757.jpg"></code>
+<code><img height="40" src="https://png.pngtree.com/png-clipart/20190705/original/pngtree-css-file-document-icon-png-image_4187768.jpg"></code>
+<code><img height="40" src="https://png.pngtree.com/png-clipart/20190705/original/pngtree-xml-file-document-icon-png-image_4187769.jpg"</code>
+ <code><img height="40" src="https://img.flaticon.com/icons/png/512/919/919825.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF"</code>
+    <code><img height="40" src="https://c0.klipartz.com/pngpicture/962/92/gratis-png-interfaz-de-linea-de-comandos-de-mysql-backup-linux-de-la-base-de-datos-simbolo-de-la-base-de-datos-thumbnail.png"</code>
+      <code><img height="40" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"</code>
+        <code><img height="40" src="https://i0.wp.com/tech.msu.edu/wp-content/uploads/2018/11/Icon-Matlab_0.png?fit=230%2C230&ssl=1"></code>
+          <code><img height="40" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"></code>
           </br>     
  </body>
 </html>
