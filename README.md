@@ -46,7 +46,7 @@
 </a>
 </br>
  </p>
-  **LANGUAGES AND TOOLS** 
+ <h1> **LANGUAGES AND TOOLS** </h1>
   <div>
   <code><img height="40" src="https://png.pngtree.com/png-clipart/20190630/original/pngtree-json-file-document-icon-png-image_4166911.jpg"></code>
 <code><img height="40" src="https://png.pngtree.com/png-clipart/20190705/original/pngtree-html-file-document-icon-png-image_4187757.jpg"></code>
