@@ -11,7 +11,7 @@ of Devincept Curriculum on Web development and Open-Source Platform.I have condu
 <a href=""><img align="center" src="https://camo.githubusercontent.com/2e31b0d0e07e5431ee3f85689b488016d52a4fb97e523ae497023a9746e2e52e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676d61696c2d2532334431343833362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" align="center"/></a>
 <a href="https://app.slack.com/client/T01BRE73QRE/D01P3C2CJ4U/user_profile/U01NGDUGYCX"><img src="https://www.logo.wine/a/logo/Slack_Technologies/Slack_Technologies-White-Dark-Background-Logo.wine.svg" align="center" width="75" height="27.5"/></a>
 <a href=""><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfupwrZlCxc_TK_6dktcjwmk5EuA6aR8sWBg&usqp=CAU" align="center" width="75" height="27.5"/></a>
-<img src="https://cdn.dribbble.com/users/1647667/screenshots/6577639/0154_4x.jpg?compress=1&resize=1600x1200" align="right" width="350" height="250"/>
+<img src="https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://cybetiq.com/wp-content/themes/CybetiqTheme/img/abt-inner-3.gif" align="right" width="350" height="250"/>
 <h3>Know about Me</h3>
 <ul>
   <li>👨🏽‍💻 I’m currently seeking my learning into projects.</li>
