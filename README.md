@@ -24,7 +24,7 @@ of Devincept Curriculum on Web development and Open-Source Platform.I have condu
 
 <h4>LANGUAGES AND TOOLS</h4>
   <div >
-  <code><img height="40" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-128.png" ></code>
+  <code><img height="30" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-128.png" ></code>
 <code><img height="30" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-128.png"  ></code>
 <code><img height="30" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-128.png" ></code>
 <code><img height="30" src="https://cdn4.iconfinder.com/data/icons/logos-3/188/nodejs-light-128.png"/></code>
