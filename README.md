@@ -8,7 +8,7 @@ of Devincept Curriculum on Web development and Open-Source Platform.I have condu
 
 
 <a href="https://www.linkedin.com/in/aadi-singh/"><img align="center" src="https://camo.githubusercontent.com/a493f6833f99fb3c85788d6d9305e6b7a42b838e5ee5d138fd9a8214a7e77472/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" align="center" /></a>
-<a href=""><img align="center" src="https://camo.githubusercontent.com/2e31b0d0e07e5431ee3f85689b488016d52a4fb97e523ae497023a9746e2e52e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676d61696c2d2532334431343833362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" align="center"/></a>
+<a href="mailto:aaditya72webd@gmail.com"><img align="center" src="https://camo.githubusercontent.com/2e31b0d0e07e5431ee3f85689b488016d52a4fb97e523ae497023a9746e2e52e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676d61696c2d2532334431343833362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" align="center"/></a>
 <a href="https://app.slack.com/client/T01BRE73QRE/D01P3C2CJ4U/user_profile/U01NGDUGYCX"><img src="https://www.logo.wine/a/logo/Slack_Technologies/Slack_Technologies-White-Dark-Background-Logo.wine.svg" align="center" width="75" height="27.5"/></a>
 <a href=""><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfupwrZlCxc_TK_6dktcjwmk5EuA6aR8sWBg&usqp=CAU" align="center" width="75" height="27.5"/></a>
 <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/github-logo-octocat-.gif" align="right" height="200"/>
