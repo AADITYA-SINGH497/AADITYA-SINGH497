@@ -44,7 +44,7 @@ of Devincept Curriculum on Web development and Open-Source Platform.I have condu
 <code><img height="40" src="https://www.techrepublic.com/a/hub/i/r/2017/11/08/6b31de46-f749-4d08-87c7-fa808a61a9a1/thumbnail/770x578/ce97214f914060078bb00ea620626a2b/virtualboxhero.jpg"></code>
 <code><img height="40" src="https://pbs.twimg.com/profile_images/714866842419011584/LRrR48qp.jpg"></code>
   </div>
-<section>
+<section width="75">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=AADITYA-SINGH497&show_icons=true&theme= radical" alt="AADITYA-SINGH497" /> <!--you can use merko/dark/ radical/ merko/ gruvbox/ tokyonight/ onedark/ cobalt/ synthwave/highcontrast/ dracula-->
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=AADITYA-SINGH497&show_icons=true&locale=en&layout=compact" alt="AADITYA-SINGH497" />
  </section>
