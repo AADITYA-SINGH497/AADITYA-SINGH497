@@ -46,5 +46,5 @@ of Devincept Curriculum on Web development and Open-Source Platform.I have condu
   </div>
 <section width="75">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=AADITYA-SINGH497&show_icons=true&theme= radical" alt="AADITYA-SINGH497" /> <!--you can use merko/dark/ radical/ merko/ gruvbox/ tokyonight/ onedark/ cobalt/ synthwave/highcontrast/ dracula-->
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=AADITYA-SINGH497&show_icons=true&locale=en&layout=compact" alt="AADITYA-SINGH497" />
+
  </section>
