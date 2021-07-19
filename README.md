@@ -44,8 +44,7 @@ of Devincept Curriculum on Web development and Open-Source Platform.I have condu
 <code><img height="30" src="https://www.techrepublic.com/a/hub/i/r/2017/11/08/6b31de46-f749-4d08-87c7-fa808a61a9a1/thumbnail/770x578/ce97214f914060078bb00ea620626a2b/virtualboxhero.jpg"></code>
 <code><img height="30" src="https://pbs.twimg.com/profile_images/714866842419011584/LRrR48qp.jpg"></code>
 <code><img height="30" src="https://cdn4.iconfinder.com/data/icons/scripting-and-programming-languages/512/JQuery_logo-128.png"></code>
-<code><img height="30" src="https://cdn1.iconfinder.com/data/icons/literary-genres-1/64/engineering-processing-automation-machine-gears-128.png"></code>
-<code><img height="30" src="https://cdn2.iconfinder.com/data/icons/programming-languages-8/64/207_programming-program-language-code-typescript-128.png"></code>
+<code><img height="30" src="https://img.icons8.com/color/2x/typescript.png"></code>
   </div>
 <section width="75">&nbsp
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=AADITYA-SINGH497&show_icons=true&theme= radical" alt="AADITYA-SINGH497" /> <!--you can use merko/dark/ radical/ merko/ gruvbox/ tokyonight/ onedark/ cobalt/ synthwave/highcontrast/ dracula-->
