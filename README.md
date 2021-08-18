@@ -29,10 +29,8 @@ of Devincept Curriculum on Web development and Open-Source Platform.I have condu
 <code><img height="30" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-128.png" ></code>
 <code><img height="30" src="https://cdn4.iconfinder.com/data/icons/logos-3/188/nodejs-light-128.png"/></code>
 <code><img height="30" src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react-128.png"/></code>
-<code><img height="30" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/21_Angular_logo_logos-128.png"></code>
 <code><img height="30" src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-128.png"/></code>
 <code><img height="30" src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-128.png"></code>
-<code><img height="30" src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/vue_js_logo-128.png"></code>
 <code><img height="30" src="https://image.flaticon.com/icons/png/128/906/906324.png"></code>
 <code><img height="30" src="https://image.flaticon.com/icons/png/128/2/2235.png"></code>  
 <code><img height="30" src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_microsoft_windows-128.png"></code>
